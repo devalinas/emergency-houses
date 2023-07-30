@@ -1,0 +1,36 @@
+﻿  functions.cpp
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(60,9): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(260,9): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(484,21): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(545,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(603,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(664,18): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(728,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(788,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(848,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(909,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(969,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1030,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1090,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1150,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1211,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1296,18): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1354,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1412,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1470,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1528,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1584,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1651,9): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1758,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1818,16): warning C4101: numb: неиспользованная локальная переменная
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(828): warning C4715: oblik_year2000: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(889): warning C4715: oblik_year_recently: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(949): warning C4715: year_created90: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1010): warning C4715: year_created2000: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1070): warning C4715: year_created_1920_1950: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1130): warning C4715: repair_yes: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1191): warning C4715: with_repair: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1798): warning C4715: oblik_year_10ago: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(1858): warning C4715: repair: значение возвращается не при всех путях выполнения
+C:\Users\Alina\source\repos\Coursework\function\function\functions.cpp(768): warning C4715: oblik_current_year: значение возвращается не при всех путях выполнения
+  function.vcxproj -> C:\Users\Alina\source\repos\Coursework\function\Debug\function.exe
